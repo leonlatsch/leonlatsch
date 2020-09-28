@@ -10,8 +10,8 @@ Here are some facts about me:
 - ⚡ Fun fact: I always thought that programming is not funny. Until i tried it.
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=leonlatsch&show_icons=true&hide_border=true)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonlatsch&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=leonlatsch&show_icons=true&hide_border=true)
 <!--
 **leonlatsch/leonlatsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
