@@ -5,7 +5,7 @@ My name is Leon. I love open source and here you can find all my public work.
 Here are some facts about me:
 
 - 🔭 I’m currently working on [Photok](https://github.com/leonlatsch/Photok). A encrypted photo safe for Android.
-- 🌱 I’m currently learning Android Jetpack.
+- 🌱 I’m currently learning Golang and game dev with Godot.
 - 📫 How to reach me: contact@leonlatsch.dev
 - ⚡ Fun fact: I always thought that programming is not funny. Until i tried it.
 
