@@ -6,7 +6,7 @@ Here are some facts about me:
 
 - 🔭 I’m currently working on [Photok](https://github.com/leonlatsch/Photok). A encrypted photo safe for Android.
 - 🌱 I’m currently learning Golang and game dev with Godot.
-- 📫 How to reach me: contact@leonlatsch.dev
+- 📫 How to reach me: hello@leonlatsch.dev
 - ⚡ Fun fact: I always thought that programming is not funny. Until i tried it.
 
 
